@@ -11,10 +11,10 @@
 
 ![tree](https://github.com/presentnine/Algorithm/blob/master/Data_structure2/%ED%8A%B8%EB%A6%AC.jpg)
 
-* 구성요소를 **노드(node)**라고 부르며, 노드 간의 관계를 **부모**, **자식** 관계라고 표현한다
+* 구성요소를 **노드(node)** 라고 부르며, 노드 간의 관계를 **부모**, **자식** 관계라고 표현한다
   * **루트(root)**: 부모가 없는 최상단의 노드
   * **서브트리(subtree)**: 트리 속 트리
-  * **단말노드(Terminal node)**또는 **리프노드(Leaf Node)**: 자식 노드가 존재하지 않는 노드
+  * **단말노드(Terminal node)** 또는 **리프노드(Leaf Node)**: 자식 노드가 존재하지 않는 노드
 
 * 전체적인 형상에 있어서는 **레벨(level)**, **높이(height)**, **차수(degree)**를 사용한다
   * **레벨(level)**: 트리의 각 층의 번호
@@ -57,7 +57,7 @@
   * 트리도 그래프의 특수한 경우
 
 
-![graph](C:\Users\admin\Desktop\MD 폴더\알고리즘\graph.jpeg)
+![graph](https://github.com/presentnine/Algorithm/blob/master/Data_structure2/graph.jpeg)
 
 * 요소를 다른 단어로는 **정점(vertex)**또는 **노드(node)**라고도 부르고, 요소 간의 이어진 관계를 **간선(edge)**또는 **링크(link)**라고 한다.
 * 특정 정점에서 다른 정점까지 가는데 거쳐가는 간선들의 집합을 **경로(path)**라고 부르고, 사용된 간선들의 수를 **길이(length)**라고 한다.
@@ -131,7 +131,7 @@
   * **최대 히프(max heap)**: 부모 노드의 키 값이 자식 노드의 키 값보다 크거나 같은 완전 이진 트리
   * **최소 히프(min heap)**: 부모 노드의 키 값이 자식 노드의 키 값보다 작거나 같은 완전 이진 트리
 
-![heap](C:\Users\admin\Desktop\MD 폴더\알고리즘\Heap_Concept.png)
+![heap](https://github.com/presentnine/Algorithm/blob/master/Data_structure2/Heap_Concept.png)
 
 
 
