@@ -9,7 +9,7 @@
 * **계층적인 구조**를 가진 자료구조
 * 원소들 간에 **1:N 관계**를 가지는 비선형 자료구조
 
-![tree](C:\Users\admin\Desktop\MD 폴더\알고리즘\트리.jpg)
+![tree](https://github.com/presentnine/Algorithm/blob/master/Data_structure2/%ED%8A%B8%EB%A6%AC.jpg)
 
 * 구성요소를 **노드(node)**라고 부르며, 노드 간의 관계를 **부모**, **자식** 관계라고 표현한다
   * **루트(root)**: 부모가 없는 최상단의 노드
