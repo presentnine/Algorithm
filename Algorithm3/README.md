@@ -25,7 +25,7 @@
 
   정렬되어 있는 부분에 __새로운 레코드를 올바른 위치에 삽입__하는 과정을 반복하는 정렬
 
-![insertion sort](C:\Users\admin\Desktop\MD 폴더\알고리즘\insertion sort.gif)
+![insertion sort](https://github.com/presentnine/Algorithm/blob/master/Algorithm3/insertion%20sort.gif)
 
 
 
@@ -71,7 +71,7 @@ insertion_sort(A[], n)
 
  **인접한 2개의 레코드를 비교하여 순서대로 되어 있지 않으면 교환하는 방식**을 사용하는 정렬로, 이를 왼쪽에서부터 오른쪽 끝까지 반복하여 **가장 큰 레코드를 오른쪽 끝으로 보내고** 이를 제외한 **남은 리스트에 대하 해당 과정을 반복한다.**
 
-![bubble sort](C:\Users\admin\Desktop\MD 폴더\알고리즘\bubble sort.png)
+![bubble sort](https://github.com/presentnine/Algorithm/blob/master/Algorithm3/bubble%20sort.png)
 
 
 
@@ -110,7 +110,7 @@ bubble_sort(A[], n)
 
  **분할 정복** 기법을 사용하는 정렬로, 피벗(기준)을 정하여 피벗을 기준으로 리스트를 **2개의 부분 리스트**로 **비균등 분할**하고, 각 부분 리스트를 다시 퀵 정렬한다.
 
-![quicksort](C:\Users\admin\Desktop\MD 폴더\알고리즘\quicksort.gif)
+![quicksort](https://github.com/presentnine/Algorithm/blob/master/Algorithm3/quicksort.gif)
 
  이 때 피벗을 결정하는 기준은 다양하다 (리스트의 맨 앞, 맨 뒤 등)
 
@@ -157,7 +157,7 @@ partition(A[], left, right)
 * 마지막으로 left와 high 위치의 값 교환 (**피벗이 순서에 맞는 위치에 들어감**)
 * high 값 반환 **(피벗 위치)**
 
-![](C:\Users\admin\Desktop\MD 폴더\알고리즘\quick-sort one step.jpg)
+![quick-sort one step](https://github.com/presentnine/Algorithm/blob/master/Algorithm3/quick-sort%20one%20step.jpg)
 
 #### 퀵 정렬의 복잡도
 
