@@ -4,7 +4,7 @@
 
   리스트를 두 개의 균등한 크기로 **분할**하고 분할된 **부분 리스트를 정렬**, 이후 다시 합병하여 **전체 리스트를 정렬**하는 방식으로, **분할 정복** 방법을 사용한다.
 
-![mergesort](C:\Users\admin\Desktop\MD 폴더\알고리즘\mergesort.gif)
+![mergesort](https://github.com/presentnine/Algorithm/blob/master/Algorithm4/mergesort.gif)
 
 
 
@@ -64,7 +64,7 @@ merge(A[], left, mid, right)
 
  조건에 맞게 **최대 힙 트리**, **최소 힙 트리**를 구성하여 정렬하는 방법, 기존 요소들의 배열 요소들을 **순서대로 힙 트리에 삽입**을 한 후, 루트를 계속 삭제하여 배열에 옮겨 적는 방식
 
-![heapsort](C:\Users\admin\Desktop\MD 폴더\알고리즘\heapsort.png)
+![heapsort](https://github.com/presentnine/Algorithm/blob/master/Algorithm4/heapsort.png)
 
 #### 힙 정렬의 의사 코드(내림차순 정렬을 위한 최대 힙)
 
@@ -142,9 +142,9 @@ delete_max_heap(heap[])
 
  삽입 정렬이 어느 정도 정렬된 상태에서 빠른 것을 이용한 정렬. 이웃한 위치로만 교환하는 **삽입 정렬을 보완**하여 전체 리스트를 **일정 간격(gap)의 부분 리스트로 나눠** 해당 리스트에 대해 **삽입 정렬을 진행**
 
-![shellsortA](C:\Users\admin\Desktop\MD 폴더\알고리즘\shellsortA.png)
+![shellsortA](https://github.com/presentnine/Algorithm/blob/master/Algorithm4/shellsortA.png)
 
-![shellsortA](C:\Users\admin\Desktop\MD 폴더\알고리즘\shellsortB.png)
+![shellsortA](https://github.com/presentnine/Algorithm/blob/master/Algorithm4/shellsortB.png)
 
 
 
