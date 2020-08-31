@@ -5,4 +5,4 @@
 8/10  [동적 프로그래밍](https://github.com/presentnine/Algorithm/blob/master/Algorithm2/README.md)  
 8/17  [삽입 정렬, 버블 정렬, 퀵 정렬](https://github.com/presentnine/Algorithm/blob/master/Algorithm3/README.md)  
 8/24  [합병 정렬, 힙 정렬, 셸 정렬](https://github.com/presentnine/Algorithm/blob/master/Algorithm4/README.md)  
-8/31  [순차 탐색, 이진 탐색, 해시 탐색, BST]()  
+8/31  [순차 탐색, 이진 탐색, 해시 탐색, BST](https://github.com/presentnine/Algorithm/blob/master/Algorithm5/README.md)  
