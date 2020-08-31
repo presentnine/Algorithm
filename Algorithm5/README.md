@@ -13,7 +13,7 @@
 
  탐색 방법 중에서 가장 간단하고 직접적인 탐색 방법으로, 정렬되지 않은 배열을 **처음부터 마지막까지 하나씩** 검사하는 방법
 
-![linearsearch](C:\Users\admin\Desktop\MD 폴더\알고리즘\알고리즘 5\linearsearch.png)
+![linearsearch](https://github.com/presentnine/Algorithm/blob/master/Algorithm5/linearsearch.png)
 
 #### 선형 탐색의 의사 코드
 
@@ -41,7 +41,7 @@ linear_search(key, low, high, list[])
 
  **정렬되어 있는 배열**에서, 배열의 **중앙에 있는 값을 조사**하여 찾고자 하는 키 값이 왼쪽인지 오른쪽에 있는지를 알아내어 **탐색 범위를 반으로 줄여가는** 탐색
 
-![binarysearch](C:\Users\admin\Desktop\MD 폴더\알고리즘\알고리즘 5\binarysearch.png)
+![binarysearch](https://github.com/presentnine/Algorithm/blob/master/Algorithm5/binarysearch.png)
 
 #### 이진 탐색의 의사 코드
 
@@ -78,7 +78,7 @@ binary_search(key, low, high, list[]) //리스트가 오름차순 정렬
 
 
 
-![hashsearch](C:\Users\admin\Desktop\MD 폴더\알고리즘\알고리즘 5\hashsearch.png)
+![hashsearch](https://github.com/presentnine/Algorithm/blob/master/Algorithm5/hashsearch.png)
 
 
 
@@ -105,7 +105,7 @@ binary_search(key, low, high, list[]) //리스트가 오름차순 정렬
 * key(왼쪽 서브 트리) <= key(루트 노드) <= key(오른쪽 서브 트리)
 * 연결리스트로 구현
 
-![binary_search_tree](C:\Users\admin\Desktop\MD 폴더\알고리즘\알고리즘 5\binary_search_tree.jpg)
+![binary_search_tree](https://github.com/presentnine/Algorithm/blob/master/Algorithm5/binary_search_tree.jpg)
 
 #### 이진 탐색 트리에서의 탐색
 
