@@ -10,7 +10,7 @@
 
  각 노드가 2개의 **자식 중 더 작은 노드**를 나타내는 완전 이진 트리로, 결과적으로 **루트 노드는 가장 작은 값**을 가진다.
 
-![winnertree](C:\Users\admin\Desktop\MD 폴더\알고리즘\알고리즘 6\winnertree.png)
+![winnertree](https://github.com/presentnine/Algorithm/blob/master/Algorithm6/winnertree.png)
 
 * 각 배열에서 값이 **하나씩 삽입**
 * 둘 중 **더 작은 키 값**을 가지는 원소가 **올라간다**
@@ -29,7 +29,7 @@
 
  각 노드가 두 자식 노드보다 더 작은 값을 갖는 완전 이진 트리 라는 점은 승자 트리와 방식이 비슷하지만, 트리의 **각 내부 노드에 승자가 아닌 패자(더 큰 값)이 저장**된다. 구성 또한 루트 노드 위에 최상위 노드가 있어 최종 승자를 표시한다.
 
-![losertree](C:\Users\admin\Desktop\MD 폴더\알고리즘\알고리즘 6\losertree.png)
+![losertree](https://github.com/presentnine/Algorithm/blob/master/Algorithm6/losertree.png)
 
 * 각 배열에서 값이 **하나씩 삽입**
 * 둘 중 **더 작은 키 값**을 가지는 원소가 **올라간다**
@@ -45,7 +45,7 @@
 
  서로 다른 n개의 원소들 중에서 특정 r개의 원소들을 **중복없이 순서대로 나열**하는 경우로, 원소들의 집합이 동일해도 **뽑은 순서가 다르면 서로 다른 경우의 수**로 친다. 흔히 nPr로 표현한다.
 
- ![Permutation](C:\Users\admin\Desktop\MD 폴더\알고리즘\알고리즘 6\Permutation.gif)
+ ![Permutation](https://github.com/presentnine/Algorithm/blob/master/Algorithm6/Permutation.gif)
 
  특정 배열이 존재할 때, C++에서는 [next_permutation()](https://docs.microsoft.com/ko-kr/cpp/standard-library/algorithm-functions?view=vs-2019#next_permutation) 함수를 통해 다음 순열을 구할 수 있다. 
 
@@ -73,7 +73,7 @@ permutation(A[], pos, size) //이 경우 A배열은 이미 기존 값이 채워�
 
 ### 조합(Combination)
 
- 서로 다른 n개의 원소들 중에서 특정 r개의 원소들을 **중복없이 뽑는** 경우로, 원소들의 **집합이 동일하면 동일한 경우의 수**로 친다. 흔히 nCr로 표현한다.![combination](C:\Users\admin\Desktop\MD 폴더\알고리즘\알고리즘 6\combination.jpeg)
+ 서로 다른 n개의 원소들 중에서 특정 r개의 원소들을 **중복없이 뽑는** 경우로, 원소들의 **집합이 동일하면 동일한 경우의 수**로 친다. 흔히 nCr로 표현한다.![combination](https://github.com/presentnine/Algorithm/blob/master/Algorithm6/combination.jpeg)
 
  조합에 대해서는 C++에서 제공해주는 함수는 존재하지 않는다.
 
