@@ -9,8 +9,8 @@
 ### 승자 트리(winner tree)
 
  각 노드가 2개의 **자식 중 더 작은 노드**를 나타내는 완전 이진 트리로, 결과적으로 **루트 노드는 가장 작은 값**을 가진다.
-
-![winnertree](https://github.com/presentnine/Algorithm/blob/master/Algorithm6/winnertree.png)
+  
+  ![winnertree](https://github.com/presentnine/Algorithm/blob/master/Algorithm6/winnertree.png)
 
 * 각 배열에서 값이 **하나씩 삽입**
 * 둘 중 **더 작은 키 값**을 가지는 원소가 **올라간다**
