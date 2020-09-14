@@ -8,7 +8,7 @@
 
  정점의 개수가 n개인 그래프의 연결 관계를 각 정점의 인덱스를 부여하여 **n x n 크기의 2차원 배열로 표현**하는 방법.
 
-![adjacent_matrix](C:\Users\admin\Desktop\MD 폴더\알고리즘\알고리즘 7\adjacent_matrix.png)
+![adjacent_matrix](https://github.com/presentnine/Algorithm/blob/master/Algorithm7/adjacent_matrix.png)
 
  이 때 배열 M에 대하여 요소 **M\[i]\[j]의 의미**는 정점 i에서 정점 j로 가는 **간선이 존재함**을 나타낸다. 추가적으로 해당 **간선의 가중치**를 담을 수도 있다.
 
@@ -36,7 +36,7 @@
 
  정점의 개수가 n개인 그래프의 연결 관계를 각 정점의 인덱스를 부여하여 **해당 인덱스(정점)를 헤더**로 정점과 연결되어 있는 **다른 정점들에 대한 정보를 연결리스트로 표현**하는 방법.
 
-![adjacency_list](C:\Users\admin\Desktop\MD 폴더\알고리즘\알고리즘 7\adjacency_list.png)
+![adjacency_list](https://github.com/presentnine/Algorithm/blob/master/Algorithm7/adjacency_list.png)
 
 #### 특징
 
