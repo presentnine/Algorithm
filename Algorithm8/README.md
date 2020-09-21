@@ -10,9 +10,9 @@
 
  하나의 시작 정점으로부터 모든 다른 정점까지의 최단 경로를 찾는 알고리즘으로, 시작 **정점 v와의 최단 경로가 이미 발견된 집합 S를 사용**하여 새로운 정점을 S에 추가할 때마다 **경로의 값을 갱신**한다.
 
-![Dijkstra1](C:\Users\admin\Desktop\MD 폴더\알고리즘\알고리즘 8\Dijkstra1.png)
+![Dijkstra1](https://github.com/presentnine/Algorithm/blob/master/Algorithm8/Dijkstra1.png)
 
-![Dijkstra2](C:\Users\admin\Desktop\MD 폴더\알고리즘\알고리즘 8\Dijkstra2.png)
+![Dijkstra2](https://github.com/presentnine/Algorithm/blob/master/Algorithm8/Dijkstra2.png)
 
 #### Dijkstra 최단 경로 의사 코드
 
@@ -63,7 +63,7 @@ shortest_path(start, n
 
 * 이 때 사이클을 이루는지 아닌지 판단할 때 **Union-Find** 알고리즘을 사용한다.
 
-![Kruskal](C:\Users\admin\Desktop\MD 폴더\알고리즘\알고리즘 8\Kruskal.png)
+![Kruskal](https://github.com/presentnine/Algorithm/blob/master/Algorithm8/Kruskal.png)
 
 #### Kruskal MST 의사코드
 
@@ -100,7 +100,7 @@ Kruskal(Graph G)
 
  **시작 정점**에서부터 출발하여 MST 집합을 단계적으로 확장해 나가는 알고리즘으로, 해당 집합에서 **인접한 정점** 중에서 **최저 간선으로 연결된 정점**을 선택하여 확장해 나간다.
 
-![Kruskal](C:\Users\admin\Desktop\MD 폴더\알고리즘\알고리즘 8\Prim.png)
+![Kruskal](https://github.com/presentnine/Algorithm/blob/master/Algorithm8/Prim.png)
 
 #### Prim MST 의사코드
 
